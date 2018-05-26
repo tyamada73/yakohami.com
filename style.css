@@ -1,0 +1,63 @@
+.title{
+  font-family: 'Megrim';
+  font-size: 9ex;
+}
+.release{
+  font-family: 'Sue Ellen Francisco';
+}
+.sound{
+  font-family: 'Sue Ellen Francisco';
+}
+.movie{
+  font-family: 'Sue Ellen Francisco';
+}
+.blog{
+  font-family: 'Sue Ellen Francisco';
+}
+.box{
+  height: 200px;
+}
+.twitter{
+  padding-top: 7px;
+  height: 35px;
+}
+.twitter img{
+  top: 5px;
+}
+.release_title{
+  font-family: 'Sue Ellen Francisco';
+  padding-top: 40px;
+  padding-left: 0px;
+  padding-bottom: 10px;
+}
+.trackTitle{
+  padding-top: 10px;
+  font-family: 'Sue Ellen Francisco';
+}
+.trackDetail{
+  padding-left: 40px;
+  padding-bottom: 10px;
+}
+.movie_detail{
+  padding-top: 0px;
+}
+.movie_title{
+  font-family: 'Sue Ellen Francisco';
+}
+.movie_image{
+  font-family: 'Sue Ellen Francisco';
+  padding-top: 10px;
+}
+.movie_sub{
+  padding-top: 30px;
+  font-family: 'Sue Ellen Francisco';
+}
+.bottom{
+  height: 100px;
+}
+a{
+  text-decoration: none;
+}
+a:hover{
+  color: #696969;
+}
